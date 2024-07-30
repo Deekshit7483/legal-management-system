@@ -1,0 +1,600 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+MERGED from [com.google.android.material:material:1.4.0] /home/deekshith/.gradle/caches/transforms-3/7d4e56a9bee0126b1c4bbdb6d0d4301f/transformed/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/deekshith/.gradle/caches/transforms-3/f5473418f88a50019346b7d42d26c765/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/deekshith/.gradle/caches/transforms-3/74e1d1083a95e644a55a73e57e4f12a7/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/deekshith/.gradle/caches/transforms-3/921a3ad01a19079b8be0a69786b0b691/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/deekshith/.gradle/caches/transforms-3/10282af72e981d0e0821e2b0b130af5f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/deekshith/.gradle/caches/transforms-3/280a7fd4ae7e4762de9e753a6448e65a/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/deekshith/.gradle/caches/transforms-3/ff26b2fc8632d0fe38e664e1e804b70e/transformed/jetified-firebase-common-19.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/deekshith/.gradle/caches/transforms-3/2bc9b4c6ef31da68cdef6a045515259b/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/deekshith/.gradle/caches/transforms-3/e353552ed231ad363fdc70a89fde3024/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/deekshith/.gradle/caches/transforms-3/80d454b7670ae08bcfbadeffbb90bd82/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/deekshith/.gradle/caches/transforms-3/67979802ab50bbb09dc63217de4bcc3a/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/deekshith/.gradle/caches/transforms-3/854d1774dde37bf4b5180bfeb551b568/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/deekshith/.gradle/caches/transforms-3/4cc9f63b71e31f9ba87e49e352d46153/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/deekshith/.gradle/caches/transforms-3/dc3e3f141ec27212a7bc20e8163d8f8b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /home/deekshith/.gradle/caches/transforms-3/2006f77cb6df43a41e390b10b478df1a/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/deekshith/.gradle/caches/transforms-3/8e9cf9e4d4aa9e6dcad44b01344432ed/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/deekshith/.gradle/caches/transforms-3/91d1e20a2a6278a53ce77a709434be85/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/deekshith/.gradle/caches/transforms-3/e48e52a192cf4d220dabb539f007110b/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/deekshith/.gradle/caches/transforms-3/f9c0ce6fc4df68a0a25ac964a5edfeea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/deekshith/.gradle/caches/transforms-3/6f72a30d8af6af3c477ebadee96978c8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/deekshith/.gradle/caches/transforms-3/d2e17b79ae882117101ac751c07eb948/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/deekshith/.gradle/caches/transforms-3/67fda2a53d3cfb634695344018fd705b/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /home/deekshith/.gradle/caches/transforms-3/89fe8f1fd02edf66f008f67fd191ea67/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /home/deekshith/.gradle/caches/transforms-3/b3d376c9d170ab51886ac1decd002804/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/deekshith/.gradle/caches/transforms-3/135e909068960b0c7034ab8b21aea234/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/deekshith/.gradle/caches/transforms-3/078b8be3ca828ac489f1525fdd4980ae/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/deekshith/.gradle/caches/transforms-3/6cd6d6662b215338602bc22fd2fdd93f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/deekshith/.gradle/caches/transforms-3/1ab3b39e4a42e6daffed71d2ebbafefc/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/deekshith/.gradle/caches/transforms-3/869ab5fbb26a661dcce62366131b5b51/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/deekshith/.gradle/caches/transforms-3/5c2e809d03a94f4c874a0f10ff78c1b7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/deekshith/.gradle/caches/transforms-3/bb431484a2b528ab0ff1d77dfa7d1e14/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/deekshith/.gradle/caches/transforms-3/8cb10b82f0946010742aae73229ac9c1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/deekshith/.gradle/caches/transforms-3/b27400ac50b220ec2677fc51ea888d36/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/deekshith/.gradle/caches/transforms-3/6a5bdbea9197f96b7262c076b06301b5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/deekshith/.gradle/caches/transforms-3/ba440e390534f05fde4aec43c75aa76c/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/deekshith/.gradle/caches/transforms-3/003a9c9aa40a1eb2ca310d8b3ff501f0/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/deekshith/.gradle/caches/transforms-3/952261164d5c9fce758f08ccef7a5bf5/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/deekshith/.gradle/caches/transforms-3/4f8819f3e54c5f08cf64bc145a3dab34/transformed/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:2:1-7:12
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+	package
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:5:5-35
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:2:1-193:12
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:3:2-60
+uses-permission#android.permission.INTERNET
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:6:2-64
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:6:19-61
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:7:2-76
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:7:19-73
+application
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:8:2-192:16
+MERGED from [com.google.android.material:material:1.4.0] /home/deekshith/.gradle/caches/transforms-3/7d4e56a9bee0126b1c4bbdb6d0d4301f/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /home/deekshith/.gradle/caches/transforms-3/7d4e56a9bee0126b1c4bbdb6d0d4301f/transformed/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/deekshith/.gradle/caches/transforms-3/f5473418f88a50019346b7d42d26c765/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/deekshith/.gradle/caches/transforms-3/f5473418f88a50019346b7d42d26c765/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/deekshith/.gradle/caches/transforms-3/280a7fd4ae7e4762de9e753a6448e65a/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/deekshith/.gradle/caches/transforms-3/280a7fd4ae7e4762de9e753a6448e65a/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/deekshith/.gradle/caches/transforms-3/ff26b2fc8632d0fe38e664e1e804b70e/transformed/jetified-firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/deekshith/.gradle/caches/transforms-3/ff26b2fc8632d0fe38e664e1e804b70e/transformed/jetified-firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/deekshith/.gradle/caches/transforms-3/2bc9b4c6ef31da68cdef6a045515259b/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/deekshith/.gradle/caches/transforms-3/2bc9b4c6ef31da68cdef6a045515259b/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/deekshith/.gradle/caches/transforms-3/e353552ed231ad363fdc70a89fde3024/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/deekshith/.gradle/caches/transforms-3/e353552ed231ad363fdc70a89fde3024/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.5.0] /home/deekshith/.gradle/caches/transforms-3/b3d376c9d170ab51886ac1decd002804/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /home/deekshith/.gradle/caches/transforms-3/b3d376c9d170ab51886ac1decd002804/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/deekshith/.gradle/caches/transforms-3/6cd6d6662b215338602bc22fd2fdd93f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/deekshith/.gradle/caches/transforms-3/6cd6d6662b215338602bc22fd2fdd93f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:10:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /home/deekshith/.gradle/caches/transforms-3/b3d376c9d170ab51886ac1decd002804/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:12:3-35
+	android:icon
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:11:3-36
+	android:allowBackup
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:9:3-29
+	android:theme
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:14:3-34
+	android:usesCleartextTraffic
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:13:3-38
+activity#com.legal.management.MainActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:15:3-25:14
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:20:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:18:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:19:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:17:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:16:4-32
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:21:4-24:20
+action#android.intent.action.MAIN
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:22:5-57
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:22:13-54
+category#android.intent.category.LAUNCHER
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:23:5-65
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:23:15-62
+activity#com.legal.management.SelectActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:26:3-31:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:31:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:29:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:30:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:28:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:27:4-34
+activity#com.legal.management.LoginActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:32:3-37:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:37:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:35:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:36:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:34:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:33:4-33
+activity#com.legal.management.RegisterActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:38:3-43:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:43:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:41:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:42:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:40:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:39:4-36
+activity#com.legal.management.LawyerLoginActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:44:3-49:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:49:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:47:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:48:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:46:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:45:4-39
+activity#com.legal.management.AdminLoginActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:50:3-56:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:56:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:53:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:54:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:52:4-97
+	android:theme
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:55:4-46
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:51:4-38
+activity#com.legal.management.UserHomeActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:57:3-62:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:62:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:60:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:61:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:59:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:58:4-36
+activity#com.legal.management.LawyerHomeActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:63:3-68:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:68:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:66:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:67:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:65:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:64:4-38
+activity#com.legal.management.AdminHomeActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:69:3-74:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:74:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:72:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:73:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:71:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:70:4-37
+activity#com.legal.management.LawyerAccountsReviewActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:75:3-80:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:80:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:78:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:79:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:77:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:76:4-48
+activity#com.legal.management.LawyerListsActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:81:3-86:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:86:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:84:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:85:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:83:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:82:4-39
+activity#com.legal.management.UserListsActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:87:3-92:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:92:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:90:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:91:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:89:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:88:4-37
+activity#com.legal.management.LawyersActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:93:3-98:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:98:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:96:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:97:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:95:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:94:4-35
+activity#com.legal.management.MyAppointmentsActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:99:3-104:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:104:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:102:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:103:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:101:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:100:4-42
+activity#com.legal.management.BookAppointmentActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:105:3-110:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:110:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:108:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:109:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:107:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:106:4-43
+activity#com.legal.management.EditProfileLawyerActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:111:3-116:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:116:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:114:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:115:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:113:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:112:4-45
+activity#com.legal.management.LawyerProfileViewActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:117:3-122:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:122:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:120:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:121:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:119:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:118:4-45
+activity#com.legal.management.AcceptedAppointmentsActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:123:3-128:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:128:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:126:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:127:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:125:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:124:4-48
+activity#com.legal.management.LLawyerListActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:129:3-134:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:134:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:132:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:133:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:131:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:130:4-39
+activity#com.legal.management.LTodayAppActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:135:3-140:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:140:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:138:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:139:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:137:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:136:4-37
+activity#com.legal.management.LAllAppActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:141:3-146:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:146:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:144:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:145:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:143:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:142:4-35
+activity#com.legal.management.LPendingAppActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:147:3-152:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:152:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:150:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:151:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:149:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:148:4-39
+activity#com.legal.management.SelectDateActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:153:3-158:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:158:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:156:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:157:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:155:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:154:4-38
+activity#com.legal.management.AllAppointmentsActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:159:3-164:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:164:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:162:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:163:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:161:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:160:4-43
+activity#com.legal.management.ResolvedCaseActivity
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:165:3-170:43
+	android:screenOrientation
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:170:4-40
+	android:hardwareAccelerated
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:168:4-38
+	android:supportsPictureInPicture
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:169:4-43
+	android:configChanges
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:167:4-97
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:166:4-40
+meta-data#com.google.android.gms.version
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:171:3-173:60
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/deekshith/.gradle/caches/transforms-3/e353552ed231ad363fdc70a89fde3024/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/deekshith/.gradle/caches/transforms-3/e353552ed231ad363fdc70a89fde3024/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:173:4-57
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:172:4-49
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:174:3-178:30
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/deekshith/.gradle/caches/transforms-3/ff26b2fc8632d0fe38e664e1e804b70e/transformed/jetified-firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/deekshith/.gradle/caches/transforms-3/ff26b2fc8632d0fe38e664e1e804b70e/transformed/jetified-firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:176:4-67
+	android:exported
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:177:4-28
+	android:initOrder
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:178:4-27
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:175:4-68
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:179:3-188:13
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:181:4-28
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:180:4-75
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:182:4-184:73
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:36:13-38:85
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:184:5-70
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:183:5-97
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:185:4-187:73
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:32:13-34:85
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:187:5-70
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:186:5-97
+uses-library#org.apache.http.legacy
+ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:189:3-191:31
+	android:required
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:191:4-28
+	android:name
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:190:4-41
+uses-sdk
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] /home/deekshith/.gradle/caches/transforms-3/7d4e56a9bee0126b1c4bbdb6d0d4301f/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /home/deekshith/.gradle/caches/transforms-3/7d4e56a9bee0126b1c4bbdb6d0d4301f/transformed/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/deekshith/.gradle/caches/transforms-3/f5473418f88a50019346b7d42d26c765/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/deekshith/.gradle/caches/transforms-3/f5473418f88a50019346b7d42d26c765/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/deekshith/.gradle/caches/transforms-3/74e1d1083a95e644a55a73e57e4f12a7/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/deekshith/.gradle/caches/transforms-3/74e1d1083a95e644a55a73e57e4f12a7/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.0.0] /home/deekshith/.gradle/caches/transforms-3/44646b62652aafc4825e26efdaa7af4d/transformed/jetified-firebase-database-19.0.0/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/deekshith/.gradle/caches/transforms-3/921a3ad01a19079b8be0a69786b0b691/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/deekshith/.gradle/caches/transforms-3/921a3ad01a19079b8be0a69786b0b691/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/deekshith/.gradle/caches/transforms-3/10282af72e981d0e0821e2b0b130af5f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/deekshith/.gradle/caches/transforms-3/10282af72e981d0e0821e2b0b130af5f/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/deekshith/.gradle/caches/transforms-3/280a7fd4ae7e4762de9e753a6448e65a/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] /home/deekshith/.gradle/caches/transforms-3/280a7fd4ae7e4762de9e753a6448e65a/transformed/jetified-firebase-auth-interop-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/deekshith/.gradle/caches/transforms-3/ff26b2fc8632d0fe38e664e1e804b70e/transformed/jetified-firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /home/deekshith/.gradle/caches/transforms-3/ff26b2fc8632d0fe38e664e1e804b70e/transformed/jetified-firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/deekshith/.gradle/caches/transforms-3/2bc9b4c6ef31da68cdef6a045515259b/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /home/deekshith/.gradle/caches/transforms-3/2bc9b4c6ef31da68cdef6a045515259b/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/deekshith/.gradle/caches/transforms-3/e353552ed231ad363fdc70a89fde3024/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /home/deekshith/.gradle/caches/transforms-3/e353552ed231ad363fdc70a89fde3024/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/deekshith/.gradle/caches/transforms-3/80d454b7670ae08bcfbadeffbb90bd82/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/deekshith/.gradle/caches/transforms-3/80d454b7670ae08bcfbadeffbb90bd82/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/deekshith/.gradle/caches/transforms-3/67979802ab50bbb09dc63217de4bcc3a/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/deekshith/.gradle/caches/transforms-3/67979802ab50bbb09dc63217de4bcc3a/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/deekshith/.gradle/caches/transforms-3/854d1774dde37bf4b5180bfeb551b568/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/deekshith/.gradle/caches/transforms-3/854d1774dde37bf4b5180bfeb551b568/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/deekshith/.gradle/caches/transforms-3/4cc9f63b71e31f9ba87e49e352d46153/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/deekshith/.gradle/caches/transforms-3/4cc9f63b71e31f9ba87e49e352d46153/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/deekshith/.gradle/caches/transforms-3/dc3e3f141ec27212a7bc20e8163d8f8b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/deekshith/.gradle/caches/transforms-3/dc3e3f141ec27212a7bc20e8163d8f8b/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /home/deekshith/.gradle/caches/transforms-3/2006f77cb6df43a41e390b10b478df1a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/deekshith/.gradle/caches/transforms-3/2006f77cb6df43a41e390b10b478df1a/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/deekshith/.gradle/caches/transforms-3/8e9cf9e4d4aa9e6dcad44b01344432ed/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/deekshith/.gradle/caches/transforms-3/8e9cf9e4d4aa9e6dcad44b01344432ed/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/deekshith/.gradle/caches/transforms-3/91d1e20a2a6278a53ce77a709434be85/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/deekshith/.gradle/caches/transforms-3/91d1e20a2a6278a53ce77a709434be85/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/deekshith/.gradle/caches/transforms-3/e48e52a192cf4d220dabb539f007110b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/deekshith/.gradle/caches/transforms-3/e48e52a192cf4d220dabb539f007110b/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/deekshith/.gradle/caches/transforms-3/f9c0ce6fc4df68a0a25ac964a5edfeea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/deekshith/.gradle/caches/transforms-3/f9c0ce6fc4df68a0a25ac964a5edfeea/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/deekshith/.gradle/caches/transforms-3/6f72a30d8af6af3c477ebadee96978c8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/deekshith/.gradle/caches/transforms-3/6f72a30d8af6af3c477ebadee96978c8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/deekshith/.gradle/caches/transforms-3/d2e17b79ae882117101ac751c07eb948/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/deekshith/.gradle/caches/transforms-3/d2e17b79ae882117101ac751c07eb948/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/deekshith/.gradle/caches/transforms-3/67fda2a53d3cfb634695344018fd705b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/deekshith/.gradle/caches/transforms-3/67fda2a53d3cfb634695344018fd705b/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /home/deekshith/.gradle/caches/transforms-3/89fe8f1fd02edf66f008f67fd191ea67/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/deekshith/.gradle/caches/transforms-3/89fe8f1fd02edf66f008f67fd191ea67/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /home/deekshith/.gradle/caches/transforms-3/b3d376c9d170ab51886ac1decd002804/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /home/deekshith/.gradle/caches/transforms-3/b3d376c9d170ab51886ac1decd002804/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/deekshith/.gradle/caches/transforms-3/135e909068960b0c7034ab8b21aea234/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/deekshith/.gradle/caches/transforms-3/135e909068960b0c7034ab8b21aea234/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/deekshith/.gradle/caches/transforms-3/078b8be3ca828ac489f1525fdd4980ae/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/deekshith/.gradle/caches/transforms-3/078b8be3ca828ac489f1525fdd4980ae/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/deekshith/.gradle/caches/transforms-3/6cd6d6662b215338602bc22fd2fdd93f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/deekshith/.gradle/caches/transforms-3/6cd6d6662b215338602bc22fd2fdd93f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/deekshith/.gradle/caches/transforms-3/1ab3b39e4a42e6daffed71d2ebbafefc/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/deekshith/.gradle/caches/transforms-3/1ab3b39e4a42e6daffed71d2ebbafefc/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/deekshith/.gradle/caches/transforms-3/869ab5fbb26a661dcce62366131b5b51/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/deekshith/.gradle/caches/transforms-3/869ab5fbb26a661dcce62366131b5b51/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/deekshith/.gradle/caches/transforms-3/5c2e809d03a94f4c874a0f10ff78c1b7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/deekshith/.gradle/caches/transforms-3/5c2e809d03a94f4c874a0f10ff78c1b7/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/deekshith/.gradle/caches/transforms-3/bb431484a2b528ab0ff1d77dfa7d1e14/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/deekshith/.gradle/caches/transforms-3/bb431484a2b528ab0ff1d77dfa7d1e14/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/deekshith/.gradle/caches/transforms-3/8cb10b82f0946010742aae73229ac9c1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/deekshith/.gradle/caches/transforms-3/8cb10b82f0946010742aae73229ac9c1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/deekshith/.gradle/caches/transforms-3/b27400ac50b220ec2677fc51ea888d36/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/deekshith/.gradle/caches/transforms-3/b27400ac50b220ec2677fc51ea888d36/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/deekshith/.gradle/caches/transforms-3/6a5bdbea9197f96b7262c076b06301b5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/deekshith/.gradle/caches/transforms-3/6a5bdbea9197f96b7262c076b06301b5/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/deekshith/.gradle/caches/transforms-3/ba440e390534f05fde4aec43c75aa76c/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/deekshith/.gradle/caches/transforms-3/ba440e390534f05fde4aec43c75aa76c/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/deekshith/.gradle/caches/transforms-3/003a9c9aa40a1eb2ca310d8b3ff501f0/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/deekshith/.gradle/caches/transforms-3/003a9c9aa40a1eb2ca310d8b3ff501f0/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/deekshith/.gradle/caches/transforms-3/952261164d5c9fce758f08ccef7a5bf5/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/deekshith/.gradle/caches/transforms-3/952261164d5c9fce758f08ccef7a5bf5/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/deekshith/.gradle/caches/transforms-3/4f8819f3e54c5f08cf64bc145a3dab34/transformed/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] /home/deekshith/.gradle/caches/transforms-3/4f8819f3e54c5f08cf64bc145a3dab34/transformed/jetified-firebase-database-collection-17.0.0/AndroidManifest.xml:5:5-44
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+		ADDED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+		INJECTED from /home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:25:13-85
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79

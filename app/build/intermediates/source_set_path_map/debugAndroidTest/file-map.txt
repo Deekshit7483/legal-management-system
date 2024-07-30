@@ -1,0 +1,4 @@
+com.legal.management1.app-androidTest-0 /home/deekshith/Downloads/legal_management/app/build/generated/res/resValues/androidTest/debug
+com.legal.management1.app-mergeDebugAndroidTestResources-1 /home/deekshith/Downloads/legal_management/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.legal.management1.app-mergeDebugAndroidTestResources-2 /home/deekshith/Downloads/legal_management/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.legal.management1.app-merged_res-3 /home/deekshith/Downloads/legal_management/app/build/intermediates/merged_res/debugAndroidTest

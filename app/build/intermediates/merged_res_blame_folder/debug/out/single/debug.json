@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_admin_2.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/admin_2.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_images_4.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/images_4.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_main_screen.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/main_screen.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_advocate.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/advocate.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_default_image.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_admin_home.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/admin_home.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_lawyer_login.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/lawyer_login.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_ic_email_black.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/ic_email_black.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_l_today_app.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/l_today_app.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_admin_login.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/admin_login.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_login.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/login.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_lawyer_img.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/lawyer_img.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_main.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/main.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_user_lists.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/user_lists.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_review.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/review.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_images_1.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/images_1.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_profile.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/profile.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_l_pending_app.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/l_pending_app.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_lawyer_profile_view.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/lawyer_profile_view.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_select.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/select.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_lawyer_lists.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/lawyer_lists.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_book_appointment.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/book_appointment.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_telephone_1.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/telephone_1.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_lawyers.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/lawyers.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_resolved_case.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/resolved_case.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_accepted_appointments.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/accepted_appointments.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_images_5.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/images_5.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_l_all_app.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/l_all_app.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_all_appointments.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/all_appointments.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_lawyer_1.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/lawyer_1.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_my_appointments.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/my_appointments.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_appointments.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/appointments.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_lawyer_.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/lawyer_.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_register.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/register.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_select_date.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/select_date.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_edit_profile_lawyer.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/edit_profile_lawyer.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_images_2.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/images_2.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_spotify_logo_rgb_white.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/spotify_logo_rgb_white.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_app_icon.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_telephone_2.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/telephone_2.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_images_3.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/images_3.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_admin_1.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/admin_1.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_ic_https_black.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/ic_https_black.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_ic_notifications_on_black.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/ic_notifications_on_black.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_star.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/star.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_lawyer_home.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/lawyer_home.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_lawyer_accounts_review.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/lawyer_accounts_review.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_lawyer_2.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/lawyer_2.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_user_home.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/user_home.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_l_lawyer_list.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/l_lawyer_list.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_lawyer_list.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/lawyer_list.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/layout_user_list.xml.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/layout/user_list.xml"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_download_3.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/download_3.png"
+    },
+    {
+        "merged": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-merged_res-16:/drawable-xhdpi_logo.png.flat",
+        "source": "/home/deekshith/.gradle/daemon/8.5/com.legal.management.app-main-18:/drawable-xhdpi/logo.png"
+    }
+]

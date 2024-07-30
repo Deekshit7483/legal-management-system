@@ -1,0 +1,421 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.legal.management"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:6:2-64
+11-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:6:19-61
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:7:2-76
+12-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:7:19-73
+13
+14    <application
+14-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:8:2-192:16
+15        android:allowBackup="true"
+15-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:9:3-29
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.5.0] /home/deekshith/.gradle/caches/transforms-3/b3d376c9d170ab51886ac1decd002804/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@drawable/app_icon"
+18-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:11:3-36
+19        android:label="@string/app_name"
+19-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:12:3-35
+20        android:requestLegacyExternalStorage="true"
+20-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:10:9-52
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme"
+22-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:14:3-34
+23        android:usesCleartextTraffic="true" >
+23-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:13:3-38
+24        <activity
+24-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:15:3-25:14
+25            android:name="com.legal.management.MainActivity"
+25-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:16:4-32
+26            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+26-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:17:4-97
+27            android:hardwareAccelerated="true"
+27-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:18:4-38
+28            android:screenOrientation="portrait"
+28-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:20:4-40
+29            android:supportsPictureInPicture="true" >
+29-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:19:4-43
+30            <intent-filter>
+30-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:21:4-24:20
+31                <action android:name="android.intent.action.MAIN" />
+31-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:22:5-57
+31-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:22:13-54
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:23:5-65
+33-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:23:15-62
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:26:3-31:43
+37            android:name="com.legal.management.SelectActivity"
+37-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:27:4-34
+38            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+38-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:28:4-97
+39            android:hardwareAccelerated="true"
+39-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:29:4-38
+40            android:screenOrientation="portrait"
+40-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:31:4-40
+41            android:supportsPictureInPicture="true" />
+41-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:30:4-43
+42        <activity
+42-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:32:3-37:43
+43            android:name="com.legal.management.LoginActivity"
+43-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:33:4-33
+44            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+44-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:34:4-97
+45            android:hardwareAccelerated="true"
+45-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:35:4-38
+46            android:screenOrientation="portrait"
+46-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:37:4-40
+47            android:supportsPictureInPicture="true" />
+47-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:36:4-43
+48        <activity
+48-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:38:3-43:43
+49            android:name="com.legal.management.RegisterActivity"
+49-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:39:4-36
+50            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+50-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:40:4-97
+51            android:hardwareAccelerated="true"
+51-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:41:4-38
+52            android:screenOrientation="portrait"
+52-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:43:4-40
+53            android:supportsPictureInPicture="true" />
+53-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:42:4-43
+54        <activity
+54-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:44:3-49:43
+55            android:name="com.legal.management.LawyerLoginActivity"
+55-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:45:4-39
+56            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+56-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:46:4-97
+57            android:hardwareAccelerated="true"
+57-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:47:4-38
+58            android:screenOrientation="portrait"
+58-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:49:4-40
+59            android:supportsPictureInPicture="true" />
+59-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:48:4-43
+60        <activity
+60-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:50:3-56:43
+61            android:name="com.legal.management.AdminLoginActivity"
+61-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:51:4-38
+62            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+62-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:52:4-97
+63            android:hardwareAccelerated="true"
+63-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:53:4-38
+64            android:screenOrientation="portrait"
+64-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:56:4-40
+65            android:supportsPictureInPicture="true"
+65-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:54:4-43
+66            android:theme="@style/AppTheme.FullScreen" />
+66-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:55:4-46
+67        <activity
+67-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:57:3-62:43
+68            android:name="com.legal.management.UserHomeActivity"
+68-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:58:4-36
+69            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+69-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:59:4-97
+70            android:hardwareAccelerated="true"
+70-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:60:4-38
+71            android:screenOrientation="portrait"
+71-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:62:4-40
+72            android:supportsPictureInPicture="true" />
+72-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:61:4-43
+73        <activity
+73-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:63:3-68:43
+74            android:name="com.legal.management.LawyerHomeActivity"
+74-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:64:4-38
+75            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+75-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:65:4-97
+76            android:hardwareAccelerated="true"
+76-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:66:4-38
+77            android:screenOrientation="portrait"
+77-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:68:4-40
+78            android:supportsPictureInPicture="true" />
+78-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:67:4-43
+79        <activity
+79-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:69:3-74:43
+80            android:name="com.legal.management.AdminHomeActivity"
+80-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:70:4-37
+81            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+81-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:71:4-97
+82            android:hardwareAccelerated="true"
+82-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:72:4-38
+83            android:screenOrientation="portrait"
+83-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:74:4-40
+84            android:supportsPictureInPicture="true" />
+84-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:73:4-43
+85        <activity
+85-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:75:3-80:43
+86            android:name="com.legal.management.LawyerAccountsReviewActivity"
+86-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:76:4-48
+87            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+87-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:77:4-97
+88            android:hardwareAccelerated="true"
+88-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:78:4-38
+89            android:screenOrientation="portrait"
+89-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:80:4-40
+90            android:supportsPictureInPicture="true" />
+90-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:79:4-43
+91        <activity
+91-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:81:3-86:43
+92            android:name="com.legal.management.LawyerListsActivity"
+92-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:82:4-39
+93            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+93-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:83:4-97
+94            android:hardwareAccelerated="true"
+94-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:84:4-38
+95            android:screenOrientation="portrait"
+95-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:86:4-40
+96            android:supportsPictureInPicture="true" />
+96-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:85:4-43
+97        <activity
+97-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:87:3-92:43
+98            android:name="com.legal.management.UserListsActivity"
+98-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:88:4-37
+99            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+99-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:89:4-97
+100            android:hardwareAccelerated="true"
+100-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:90:4-38
+101            android:screenOrientation="portrait"
+101-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:92:4-40
+102            android:supportsPictureInPicture="true" />
+102-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:91:4-43
+103        <activity
+103-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:93:3-98:43
+104            android:name="com.legal.management.LawyersActivity"
+104-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:94:4-35
+105            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+105-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:95:4-97
+106            android:hardwareAccelerated="true"
+106-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:96:4-38
+107            android:screenOrientation="portrait"
+107-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:98:4-40
+108            android:supportsPictureInPicture="true" />
+108-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:97:4-43
+109        <activity
+109-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:99:3-104:43
+110            android:name="com.legal.management.MyAppointmentsActivity"
+110-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:100:4-42
+111            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+111-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:101:4-97
+112            android:hardwareAccelerated="true"
+112-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:102:4-38
+113            android:screenOrientation="portrait"
+113-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:104:4-40
+114            android:supportsPictureInPicture="true" />
+114-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:103:4-43
+115        <activity
+115-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:105:3-110:43
+116            android:name="com.legal.management.BookAppointmentActivity"
+116-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:106:4-43
+117            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+117-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:107:4-97
+118            android:hardwareAccelerated="true"
+118-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:108:4-38
+119            android:screenOrientation="portrait"
+119-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:110:4-40
+120            android:supportsPictureInPicture="true" />
+120-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:109:4-43
+121        <activity
+121-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:111:3-116:43
+122            android:name="com.legal.management.EditProfileLawyerActivity"
+122-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:112:4-45
+123            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+123-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:113:4-97
+124            android:hardwareAccelerated="true"
+124-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:114:4-38
+125            android:screenOrientation="portrait"
+125-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:116:4-40
+126            android:supportsPictureInPicture="true" />
+126-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:115:4-43
+127        <activity
+127-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:117:3-122:43
+128            android:name="com.legal.management.LawyerProfileViewActivity"
+128-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:118:4-45
+129            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+129-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:119:4-97
+130            android:hardwareAccelerated="true"
+130-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:120:4-38
+131            android:screenOrientation="portrait"
+131-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:122:4-40
+132            android:supportsPictureInPicture="true" />
+132-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:121:4-43
+133        <activity
+133-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:123:3-128:43
+134            android:name="com.legal.management.AcceptedAppointmentsActivity"
+134-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:124:4-48
+135            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+135-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:125:4-97
+136            android:hardwareAccelerated="true"
+136-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:126:4-38
+137            android:screenOrientation="portrait"
+137-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:128:4-40
+138            android:supportsPictureInPicture="true" />
+138-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:127:4-43
+139        <activity
+139-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:129:3-134:43
+140            android:name="com.legal.management.LLawyerListActivity"
+140-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:130:4-39
+141            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+141-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:131:4-97
+142            android:hardwareAccelerated="true"
+142-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:132:4-38
+143            android:screenOrientation="portrait"
+143-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:134:4-40
+144            android:supportsPictureInPicture="true" />
+144-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:133:4-43
+145        <activity
+145-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:135:3-140:43
+146            android:name="com.legal.management.LTodayAppActivity"
+146-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:136:4-37
+147            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+147-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:137:4-97
+148            android:hardwareAccelerated="true"
+148-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:138:4-38
+149            android:screenOrientation="portrait"
+149-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:140:4-40
+150            android:supportsPictureInPicture="true" />
+150-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:139:4-43
+151        <activity
+151-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:141:3-146:43
+152            android:name="com.legal.management.LAllAppActivity"
+152-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:142:4-35
+153            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+153-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:143:4-97
+154            android:hardwareAccelerated="true"
+154-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:144:4-38
+155            android:screenOrientation="portrait"
+155-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:146:4-40
+156            android:supportsPictureInPicture="true" />
+156-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:145:4-43
+157        <activity
+157-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:147:3-152:43
+158            android:name="com.legal.management.LPendingAppActivity"
+158-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:148:4-39
+159            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+159-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:149:4-97
+160            android:hardwareAccelerated="true"
+160-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:150:4-38
+161            android:screenOrientation="portrait"
+161-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:152:4-40
+162            android:supportsPictureInPicture="true" />
+162-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:151:4-43
+163        <activity
+163-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:153:3-158:43
+164            android:name="com.legal.management.SelectDateActivity"
+164-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:154:4-38
+165            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+165-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:155:4-97
+166            android:hardwareAccelerated="true"
+166-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:156:4-38
+167            android:screenOrientation="portrait"
+167-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:158:4-40
+168            android:supportsPictureInPicture="true" />
+168-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:157:4-43
+169        <activity
+169-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:159:3-164:43
+170            android:name="com.legal.management.AllAppointmentsActivity"
+170-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:160:4-43
+171            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+171-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:161:4-97
+172            android:hardwareAccelerated="true"
+172-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:162:4-38
+173            android:screenOrientation="portrait"
+173-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:164:4-40
+174            android:supportsPictureInPicture="true" />
+174-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:163:4-43
+175        <activity
+175-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:165:3-170:43
+176            android:name="com.legal.management.ResolvedCaseActivity"
+176-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:166:4-40
+177            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+177-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:167:4-97
+178            android:hardwareAccelerated="true"
+178-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:168:4-38
+179            android:screenOrientation="portrait"
+179-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:170:4-40
+180            android:supportsPictureInPicture="true" />
+180-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:169:4-43
+181
+182        <meta-data
+182-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:171:3-173:60
+183            android:name="com.google.android.gms.version"
+183-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:172:4-49
+184            android:value="@integer/google_play_services_version" />
+184-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:173:4-57
+185
+186        <provider
+186-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:174:3-178:30
+187            android:name="com.google.firebase.provider.FirebaseInitProvider"
+187-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:175:4-68
+188            android:authorities="com.legal.management.firebaseinitprovider"
+188-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:176:4-67
+189            android:exported="false"
+189-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:177:4-28
+190            android:initOrder="100" />
+190-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:178:4-27
+191
+192        <service
+192-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:179:3-188:13
+193            android:name="com.google.firebase.components.ComponentDiscoveryService"
+193-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:180:4-75
+194            android:exported="false" >
+194-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:181:4-28
+195            <meta-data
+195-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:182:4-184:73
+196                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+196-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:183:5-97
+197                android:value="com.google.firebase.components.ComponentRegistrar" />
+197-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:184:5-70
+198            <meta-data
+198-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:185:4-187:73
+199                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+199-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:186:5-97
+200                android:value="com.google.firebase.components.ComponentRegistrar" />
+200-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:187:5-70
+201        </service>
+202
+203        <uses-library
+203-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:189:3-191:31
+204            android:name="org.apache.http.legacy"
+204-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:190:4-41
+205            android:required="false" />
+205-->/home/deekshith/Downloads/legal_management/app/src/main/AndroidManifest.xml:191:4-28
+206
+207        <activity
+207-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:24:9-31:50
+208            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+208-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:25:13-85
+209            android:excludeFromRecents="true"
+209-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:26:13-46
+210            android:exported="true"
+210-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:27:13-36
+211            android:launchMode="singleTask"
+211-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:28:13-44
+212            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+212-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:29:13-102
+213            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+213-->[com.google.firebase:firebase-auth:19.0.0] /home/deekshith/.gradle/caches/transforms-3/5e97890ebbcada8d1b275c0444aab11d/transformed/jetified-firebase-auth-19.0.0/AndroidManifest.xml:30:13-72
+214        <activity
+214-->[com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:23:9-26:75
+215            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+215-->[com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:24:13-79
+216            android:exported="false"
+216-->[com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:25:13-37
+217            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+217-->[com.google.android.gms:play-services-base:17.1.0] /home/deekshith/.gradle/caches/transforms-3/f22d1a0b7782ad86a0171925f2a83f5c/transformed/jetified-play-services-base-17.1.0/AndroidManifest.xml:26:13-72
+218    </application>
+219
+220</manifest>

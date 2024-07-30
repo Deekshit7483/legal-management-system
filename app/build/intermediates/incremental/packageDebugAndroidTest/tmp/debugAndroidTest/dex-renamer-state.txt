@@ -1,0 +1,4 @@
+#Tue Jul 30 13:20:36 IST 2024
+base.0=/home/deekshith/Downloads/legal_management/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
