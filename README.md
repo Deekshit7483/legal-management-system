@@ -104,7 +104,7 @@ Legal Management is an Android application designed to streamline legal services
     <td align="center">
       <img src="https://github.com/user-attachments/assets/a7399c41-0b76-475f-bfeb-087c8433b48f" alt="Appointment Booking page" width="300"/>
       <br>
-      <strong>Image 1: Appointment Booking page</strong>
+      <strong>Image 1: Lawyer login page</strong>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/eb447e03-fb68-4295-bb99-f2d77a4b071a" alt="Under review until admin accepts" width="300"/>
