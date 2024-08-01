@@ -59,6 +59,82 @@ Legal Management is an Android application designed to streamline legal services
 
 ---
 
+## Demo
+
+### User side
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a7399c41-0b76-475f-bfeb-087c8433b48f" alt="Client Login" width="300"/>
+      <br>
+      <strong>Image 1: Client Login</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/16a3cdad-44c2-4960-9e90-4a3da8576ab6" alt="Client Sign up" width="300"/>
+      <br>
+      <strong>Image 2: Client Sign up</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/830a830c-2786-4d0c-a2e7-457e586f8890" alt="Client Home page" width="300"/>
+      <br>
+      <strong>Image 3: Client Home page</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c131d859-f7b4-4bdd-a93a-564ecd8ec096" alt="Lawyers list" width="300"/>
+      <br>
+      <strong>Image 4: Lawyers list</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ca25357e-67d6-47d8-ada7-0b28b62f4cba" alt="Appointment Booking page" width="300"/>
+      <br>
+      <strong>Image 5: Appointment Booking page</strong>
+    </td>
+  </tr>
+</table>
+
+### Lawyer side
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a7399c41-0b76-475f-bfeb-087c8433b48f" alt="Appointment Booking page" width="300"/>
+      <br>
+      <strong>Image 1: Appointment Booking page</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/eb447e03-fb68-4295-bb99-f2d77a4b071a" alt="Under review until admin accepts" width="300"/>
+      <br>
+      <strong>Image 2: Under review until admin accepts</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/ac324bd5-6aa9-4264-919a-832d40291d62" alt="Lawyer home page" width="300"/>
+      <br>
+      <strong>Image 3: Lawyer home page</strong>
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/164737f6-fa0a-4521-ada5-7ac9357364c0" alt="Appointments list" width="300"/>
+      <br>
+      <strong>Image 4: Appointments list</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/a573030c-10aa-42a2-b72e-46c05bacb9e1" alt="Admin Home page" width="300"/>
+      <br>
+      <strong>Image 5: Admin Home page</strong>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🤝 Contributing
 
 ### How to Make a Pull Request (PR)
